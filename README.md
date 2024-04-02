@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Computer Science student studying at University of Lisbon. I'm enthusiastic about low-level computation, the complexity of the computer structure keeps fascinating me.
+I'm a Computer Science student at the University of Lisbon. I'm enthusiastic about low-level computation, the complexity of the computer structure keeps fascinating me.
 
 I'll keep updating the projects I developed in university below, they aren't much but they are little honest works :)
 
