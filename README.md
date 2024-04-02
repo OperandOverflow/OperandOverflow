@@ -3,7 +3,7 @@ I'm a Computer Science student studying at University of Lisbon. I'm enthusiasti
 
 I'll keep updating the projects I developed in university below, they aren't much but they are little honest works :)
 
-Hope you found my repository interesing, new personal will also be added here.
+Hope you found my repository interesing, new personal projects will also be added here.
 
 <!--
 **OperandOverflow/OperandOverflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
