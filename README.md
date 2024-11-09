@@ -1,5 +1,6 @@
-## <center> Hi there 👋 I'm Xiting Wang </center>
-
+<div align="center">
+    <h2> Hi there 👋 I'm Xiting Wang
+</div>
 
 ### 🙋‍♂️ About me
 🏫 I'm a Computer Science MSc student at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/). 
