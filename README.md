@@ -17,8 +17,9 @@
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xitingwang)
 
-
-
+<div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=OperandOverflow&theme=dark" alt="GitHub Streak" /></a>
+</div>
 
 
 <!--
