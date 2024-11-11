@@ -17,8 +17,11 @@
 ### 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xitingwang)
 
+
+### 📊 GitHub stats
 <div align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=OperandOverflow&theme=dark" alt="GitHub Streak" /></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OperandOverflow&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
 
