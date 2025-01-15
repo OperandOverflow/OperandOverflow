@@ -20,7 +20,7 @@
 
 ### 📊 GitHub stats
 <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=OperandOverflow">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=OperandOverflow"></a>
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OperandOverflow&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </div>
