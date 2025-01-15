@@ -20,9 +20,9 @@
 
 ### 📊 GitHub stats
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=OperandOverflow&theme=dark" alt="GitHub Streak" /></a>
-    <br>
     [![GitHub Streak](https://streak-stats.demolab.com/?user=OperandOverflow)](https://git.io/streak-stats)
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OperandOverflow&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
 
