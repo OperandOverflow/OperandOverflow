@@ -11,7 +11,7 @@
 
 🆕 I'll keep updating the university and personal projects below, they aren't much but they are little honest works.
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Yapping](https://img.shields.io/badge/%F0%9F%97%A3_yapping-badge?style=for-the-badge)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)![Yapping](https://img.shields.io/badge/%F0%9F%97%A3_yapping-badge?style=for-the-badge)
 
 
 ### 🤝 Connect with me
