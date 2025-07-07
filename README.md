@@ -3,11 +3,11 @@
 </div>
 
 ### 🙋‍♂️ About me
-🏫 I'm a Computer Science MSc student at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/). 
+🏫 I'm a Computer Science MSc student at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/) specializing in cyber-security and distributed systems. 
 
-🤓 In the field of CS, I'm interested in low-level programming and distributed systems.
+🤓 In the field of CS, I'm interested in low-level programming and embedded systems.
 
-👀 Looking further to learn some languages such as Kotlin and Rust
+👀 Looking further to work more with hardware, maybe some mobile development.
 
 🆕 I'll keep updating the university and personal projects below, they aren't much but they are little honest works.
 
